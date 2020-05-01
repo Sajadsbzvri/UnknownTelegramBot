@@ -8,4 +8,4 @@ pip3/pip install -r reqirement.txt
 
 then run index.py and enjoy it.
 
-Thanks to Dr. Bebei
+Thanks to Dr. Babaie
